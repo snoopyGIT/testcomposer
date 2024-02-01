@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
-            "Snoopyebo\\TestSignature\\": "src/"
+            "Snoopy\\TestSignature\\": "src/"
         }
     },
     "authors": [

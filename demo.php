@@ -2,7 +2,7 @@
 
 require __DIR__ . '/vendor/autoload.php';
 
-use Snoopyebo\TestSignature\Decrypt\Lib\Signature;
+use Snoopy\TestSignature\Decrypt\Lib\Signature;
 
 $params = [
     'id' => 1,

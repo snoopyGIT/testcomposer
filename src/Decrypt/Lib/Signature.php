@@ -1,6 +1,6 @@
 <?php
 
-namespace Snoopyebo\TestSignature\Decrypt\Lib;
+namespace Snoopy\TestSignature\Decrypt\Lib;
 
 class Signature
 {
