@@ -1,11 +1,11 @@
 {
-    "name": "snoopy/test_signature",
+    "name": "snoopyebo/test_signature",
     "description": "第一个测试包",
     "type": "library",
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
-            "Snoopy\\TestSignature\\": "src/"
+            "Snoopyebo\\TestSignature\\": "src/"
         }
     },
     "authors": [
