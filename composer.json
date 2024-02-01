@@ -1,6 +1,7 @@
 {
     "name": "snoopyebo/test_signature",
     "description": "第一个测试包",
+    "keywords": ["Signature", "Decrypt", "Hash", "RSA"],
     "type": "library",
     "version": "1.0.0",
     "license": "MIT",
