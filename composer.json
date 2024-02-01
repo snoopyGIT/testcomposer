@@ -3,7 +3,7 @@
     "description": "第一个测试包",
     "type": "library",
     "version": "1.0.0",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Snoopy\\TestSignature\\": "src/"
